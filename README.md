@@ -11,3 +11,10 @@ Check out our `Profit With JavaScript Course`    :point_down:
 Made with :heart: by [Naz](https://www.instagram.com/nazdumanskyy/) & [Youssef](https://www.instagram.com/youcef.dev/)
 
 
+how to run
+
+1.node install -g
+2.npm install nodemon -g
+3.npm install ejs
+
+run--->nodemon server.js
